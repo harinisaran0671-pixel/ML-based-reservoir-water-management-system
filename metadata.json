@@ -1,0 +1,6 @@
+{
+  "name": "AquaPredict AI",
+  "description": "AI-Based Water Demand Forecasting and Reservoir Storage Decision Support System",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

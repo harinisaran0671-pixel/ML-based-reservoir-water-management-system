@@ -1,0 +1,17 @@
+[
+  "tests/test_aquapredict.py::test_api_generate_pdf_report",
+  "tests/test_aquapredict.py::test_api_get_reservoirs",
+  "tests/test_aquapredict.py::test_api_health",
+  "tests/test_aquapredict.py::test_api_predict_demand",
+  "tests/test_aquapredict.py::test_api_storage_assessment",
+  "tests/test_aquapredict.py::test_chronological_split",
+  "tests/test_aquapredict.py::test_dataset_exists_and_has_records",
+  "tests/test_aquapredict.py::test_dynamic_recommendations",
+  "tests/test_aquapredict.py::test_feature_engineering",
+  "tests/test_aquapredict.py::test_forecast_trajectory_12_months",
+  "tests/test_aquapredict.py::test_model_artifacts_exist",
+  "tests/test_aquapredict.py::test_predict_single_inference",
+  "tests/test_aquapredict.py::test_risk_calculation_seven_factors",
+  "tests/test_aquapredict.py::test_scenario_simulator_drought",
+  "tests/test_aquapredict.py::test_storage_cannot_become_negative"
+]
